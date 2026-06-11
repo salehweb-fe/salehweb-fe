@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+    <h2 align=""></h2>
+   <img src="./Logo.png" alt="image-logo" width="200" align="center">
+    <br>
+   <img src="./name.png" alt="image-logo2" width="200" align="center">
+</div>
+<div>
+<p>Hi, I'm Mohammad Saleh Pahlavannejad, a Junior Front-End Developer passionate about building modern, responsive, and user-friendly websites.</p>
+</div>
+<br>
+<h2 align="left">My Expertise:</h2>
+<div>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,github,git" alt="My Expertise" >
+</div>
+<h2 align="left">Socials:</h2>
+<div> 
+    <a href="https://www.instagram.com/saleh.web_fe/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"></a>
+    <a href="mailto:wallet.tw.okx.mema@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
+    <a href="https://www.linkedin.com/in/mohamad-web-com-phn-741502415?trk=contact-info" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"></a>
+    <a href="http://t.me/Salehwebfe" target="_blank"><img src="telegram-6896827_1280.png" alt="telegram" width="48"></a>
+    <a href="https://youtube.com/@salehweb?si=347sd3zvnxofKP_4" target="_blank"><img src="Screenshot_۲۰۲۶۰۶۱۰-۲۳۵۱۰۰_Google.jpg" alt="youtube" width="59"></a>
+</div>
 
-<!--
-**salehweb-fe/salehweb-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
