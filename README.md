@@ -5,7 +5,7 @@
    <img src="./name.png" alt="image-logo2" width="200" align="center">
 </div>
 <div>
-<p>Hi, I'm Mohammad Saleh , a Junior Front-End Developer passionate about building modern, responsive, and user-friendly websites.</p>
+<p>Hi, I'm Mohammad , a Junior Front-End Developer passionate about building modern, responsive, and user-friendly websites.</p>
 </div>
 <br>
 <h2 align="left">My Expertise:</h2>
