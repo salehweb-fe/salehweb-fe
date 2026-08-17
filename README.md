@@ -1,4 +1,12 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+  <div align="center">
     <h2 align=""></h2>
    <img src="./Logo.png" alt="image-logo" width="200" align="center">
     <br>
@@ -21,5 +29,5 @@
     <a href="https://youtube.com/@salehweb?si=347sd3zvnxofKP_4" target="_blank"><img src="Screenshot_۲۰۲۶۰۶۱۰-۲۳۵۱۰۰_Google.jpg" alt="youtube" width="59"></a>
 </div>
 
-
-
+</body>
+</html>
