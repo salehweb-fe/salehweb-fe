@@ -23,10 +23,10 @@
 <h2 align="left">Socials:</h2>
 <div> 
   <a href="https://web.bale.ai/chat?uid=423169418"><img src="Logo07.png" alt="bale" width="48"></a>
+  <a href="http://t.me/Salehwebfe" target="_blank"><img src="telegram-6896827_1280.png" alt="telegram" width="48"></a>
     <a href="https://www.instagram.com/saleh.web_fe/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"></a>
     <a href="mailto:wallet.tw.okx.mema@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
     <a href="https://www.linkedin.com/in/saleh-web-phn-741502415?trk=contact-info" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"></a>
-    <a href="http://t.me/Salehwebfe" target="_blank"><img src="telegram-6896827_1280.png" alt="telegram" width="48"></a>
     <a href="https://youtube.com/@salehweb?si=347sd3zvnxofKP_4" target="_blank"><img src="Screenshot_۲۰۲۶۰۶۱۰-۲۳۵۱۰۰_Google.jpg" alt="youtube" width="59"></a>
 </div>
 
