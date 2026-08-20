@@ -22,6 +22,7 @@
 </div>
 <h2 align="left">Socials:</h2>
 <div> 
+  <a href="https://rubika.ir/Salehweb_fe"><img src="https://rubika.ir/static/images/logos/minimal/minimal.png" alt="rubika" width="50"></a>
   <a href="https://web.bale.ai/chat?uid=423169418"><img src="Logo07.png" alt="bale" width="48"></a>
   <a href="http://t.me/Salehwebfe" target="_blank"><img src="telegram-6896827_1280.png" alt="telegram" width="48"></a>
     <a href="https://www.instagram.com/saleh.web_fe/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram"></a>
